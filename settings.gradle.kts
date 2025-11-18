@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AI Photo Video Enhancer"
+rootProject.name = "AI-Foto-Video-Enhancer"
 include(":app")
