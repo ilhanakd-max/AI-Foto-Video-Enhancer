@@ -1,5 +1,3 @@
-rootProject.name = "AI-Foto-Video-Enhancer"
-
 pluginManagement {
     repositories {
         google()
@@ -16,4 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
+rootProject.name = "AI-Foto-Video-Enhancer"
 include(":app")
